@@ -1,0 +1,3 @@
+- Databases for experiments with the Privacy-Preserved Uitlity Mining (PPUM) task. 
+- The repository contain 6 databases.
+- Originial source from SPMF.
